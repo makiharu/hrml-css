@@ -15,6 +15,6 @@
 .box2 {
 	width: 100px;
 	height: 100px;
-	background-color: blue;
-	border: 5px solid yellow;
+	background-color: #b22222;
+	border: 5px dotted lightcyan;
 }
