@@ -38,83 +38,83 @@ main {
 .box1 {
 	height: 200px;
 	width: 200px;
-	background-color: indianred;
+	background-color: #e6ffe9;
 	float:left;
 }
 
 .box2 {
 	height: 200px;
 	width: 200px;
-	background-color: honeydew;
+	background-color: #cbffd3;
 	float:left;	
 }
 
 .box3 {
 	height: 200px;
 	width: 200px;
-	background-color: salmon;
+	background-color: #aeffbd;
 	float:left;	
 }
 
 .box4 {
 	height: 200px;
 	width: 200px;
-	background-color: aqua;
+	background-color: #93ffab;
 	float:left;	
 }
 .box5 {
 	height: 200px;
 	width: 200px;
-	background-color: azure;
+	background-color: #f3ffd8;
 	float:left;
 }
 
 .box6 {
 		height: 200px;
 	width: 200px;
-	background-color: red;
+	background-color: #edffbe;
 	float:left;
 }
 
 .box7 {
 	height: 200px;
 	width: 200px;
-	background-color: mistyrose;
+	background-color: #e9ffa5;
 	float:left;
 }
 
 .box8 {
 	height: 200px;
 	width: 200px;
-	background-color: ivory;
+	background-color: #e4ff8d;
 	float:left;	
 }
 
 .box9 {
 	height: 200px;
 	width: 200px;
-	background-color: purple;
+	background-color: #d9e5ff;
 	float:left;
 }
 
 .box10 {
 	height: 200px;
 	width: 200px;
-	background-color: yellow;
+	background-color: #bad3ff;
 	float:left;
 }
 
 .box11 {
 	height: 200px;
 	width: 200px;
-	background-color: indigo;
+	background-color: #a4c6ff;
 	float:left;
 }
 
 .box12 {
 	height: 200px;
 	width: 200px;
-	background-color: oldlace;
+	background-color: #8eb8ff;
 	float:left;
 }
 footer {
