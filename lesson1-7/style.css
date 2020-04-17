@@ -32,3 +32,16 @@
 	padding: 30px 0;
 	border-bottom: 1px solid gray;
 }
+
+
+@media screen and (max-width: 768px){
+	.contents {
+		background-color: teal;
+		width: 100%;
+	}
+
+	.contents-item {
+		width: 100%;
+		text-align: center;
+	}
+}
